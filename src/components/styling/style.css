@@ -1,0 +1,19 @@
+.inputfield-button{
+    /* background-color: black; */
+    display: flex;
+    flex-direction: row;
+    gap: 1.875rem /* 30/16 */
+}
+.input-field{
+    height: 1.875rem /* 30/16 */;
+    width: 80%;
+    border-radius: 2.5rem /* 40/16 */;
+    padding-left: 1.25rem /* 20/16 */;
+    padding-right: 1rem;
+    
+}
+.generated-button{
+    border-radius: 2.5rem /* 40/16 */;
+    cursor: pointer;
+    height: 1.875rem /* 30/16 */
+}
